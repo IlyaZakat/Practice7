@@ -1,0 +1,4 @@
+include ':HttpURLConnection'
+include ':SocketConnection'
+include ':app'
+rootProject.name = "Practice7"
